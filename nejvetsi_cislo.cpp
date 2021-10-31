@@ -1,10 +1,10 @@
 ﻿#include <stdio.h>
 
 int main() {
-	int a = 8, b = 6, c = 2;
+	int a = 8, b = 8, c = 8;
 	int max;
 
-	if (a == b) {
+	if (a == b == c) {
 		max = a;
 	}
 	else{
